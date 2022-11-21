@@ -16,7 +16,6 @@ body {
   max-width: 1600px;
   background: #ffffff;
   border-radius: 50px;
-  /* border: 1px solid black; */
   flex-direction: column;
   align-items: center;
   gap: 120px;
@@ -38,8 +37,6 @@ section {
 .card_1 {
   display: flex;
   max-width: 1110px;
-  /* height: 465px; */
-  /* border: 1px solid black; */
   gap: 180px;
   align-items: center;
 }
@@ -55,7 +52,6 @@ section {
 .card_1_righ {
   display: flex;
   flex-direction: column;
-  /* border: 1px solid black; */
   gap: 30px;
 }
 .card_1_righ h2 {
@@ -75,7 +71,6 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* margin-top: 30px; */
 }
 .btn:hover {
   background-color: #ccc;
@@ -104,8 +99,6 @@ section {
 .card_3 {
   display: flex;
   max-width: 1110px;
-  /* height: 486px; */
-  /* border: 1px solid black; */
   align-items: center;
   background: linear-gradient(102deg, #e8ffe8 17.38%, #d1f0ff 81.25%);
   border-radius: 60px;
@@ -121,7 +114,6 @@ section {
 .card_3_righ {
   display: flex;
   flex-direction: column;
-  /* border: 1px solid black; */
   gap: 24px;
 }
 .card_3_righ h2 {
